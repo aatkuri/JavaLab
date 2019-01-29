@@ -1,0 +1,75 @@
+Kaiser Shipyards
+25670
+Passenger Ship
+Cruise
+Carnival Breeze Cruise
+10.0 20.0 90.0 100.0
+VX122
+120.0
+Casino,Spa,Gym,Games,BuffetRestaurant
+Passenger Ship
+Ferry
+BC Ferries Ferry
+50 60 90 80
+FR145
+80
+7
+Food,Upperdeck,Drinks
+Cargo Ship
+Animals
+198
+1500
+Cargo Altmark Cargo
+0 0 1000.5 1480.8
+CRX01
+Passenger Ship
+Ferry
+Stena Line Ferry
+10 15 40 50
+FX029
+80
+3
+Food,Upperdeck
+Passenger Ship
+Cruise
+Caribbean Princess Cruise
+40.2 50.5 110.5 120.7
+BZ099
+110
+Casino,Spa,Gym,Games
+Cargo Ship
+Chemical
+209
+6000
+Kaiser Lines Cargo
+520 230 1091.2 790.8
+DW01B
+Passenger Ship
+Cruise
+Carnival Destiny Cruise
+12.2 60.5 72.2 100.9
+CD911
+100
+Casino
+Cargo Ship
+Wood
+201
+1900
+SS Shipping Cargo
+20 30 800.5 480.8
+SS012
+Passenger Ship
+Cruise
+Pacific Rim Cruise
+35.2 70.5 75.3 130.5
+CZ081
+110
+Casino,Games
+Passenger Ship
+Ferry
+DC Ferry
+30 40 180 150
+FR145
+80
+7
+Food,Upperdeck,Drinks

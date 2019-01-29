@@ -1,0 +1,280 @@
+Actor
+Amy Pohler
+110k-Pete Docter-2014
+40k-Andrew Jay Cohen-2015
+130k-Berry Levinson-2013
+60k-David Wain-2016
+120k-Vikram K Kumar-2014
+80k-Micheal McCuller-2015
+20k-Sanjay Leela Bansali-2013
+50k-Teja-2016
+30k-Trivikram-2014
+90k-Jason Gordon-2015
+100k-Maruthi-2013
+70k-Jason Moore-2016
+Actor
+Bala Krishna Nandamuri
+60k-Pete Docter-2014
+80k-Andrew Jay Cohen-2015
+20k-Mite Michell-2013
+40k-Teja-2016
+70k-Sanjay Leela Bansali-2014
+30k-Maruthi-2015
+100k-Vikram K Kumar-2013
+50k-V V Vinayak-2016
+130k-Trivikram-2014
+110k-Jason Moore-2015
+90k-David Wain-2013
+120k-S S Rajamouli-2016
+Actor
+Suriya
+130k-V V Vinayak-2014
+120k-Louis C.K-2015
+110k-Sanjay Leela Bansali-2013
+80k-Pete Docter-2016
+90k-Teja-2014
+50k-Vikram K Kumar-2015
+30k-David Wain-2013
+20k-Andrew Jay Cohen-2016
+40k-S S Rajamouli-2014
+60k-S J Surya-2015
+70k-Micheal McCuller-2013
+100k-Matt Besser-2016
+Actor
+Hrithik Roshan
+120k-Matt Besser-2014
+100k-Berry Levinson-2015
+60k-V V Vinayak-2013
+130k-Pete Docter-2016
+30k-Louis C.K-2014
+40k-Micheal McCuller-2015
+50k-S S Rajamouli-2013
+90k-S J Surya-2016
+70k-David Wain-2014
+110k-Jason Moore-2015
+20k-Teja-2013
+80k-Jason Gordon-2016
+Actor
+Johnny Dipp
+60k-Pete Docter-2014
+110k-Louis C.K-2015
+70k-Jason Moore-2013
+50k-Sanjay Leela Bansali-2016
+100k-Matt Besser-2014
+40k-Mite Michell-2015
+80k-S S Rajamouli-2013
+120k-Andrew Jay Cohen-2016
+130k-Vikram K Kumar-2014
+90k-Maruthi-2015
+20k-Berry Levinson-2013
+30k-Jason Gordon-2016
+Actor
+Venkatesh Daggubati
+70k-Sanjay Leela Bansali-2014
+30k-Teja-2015
+20k-Pete Docter-2013
+40k-Louis C.K-2016
+80k-S S Rajamouli-2014
+100k-Andrew Jay Cohen-2015
+60k-Jason Moore-2013
+120k-Trivikram-2016
+90k-S J Surya-2014
+130k-Mite Michell-2015
+50k-Berry Levinson-2013
+110k-Vikram K Kumar-2016
+Actor
+Ajith Kumar
+130k-V V Vinayak-2014
+40k-Jason Moore-2015
+110k-Trivikram-2013
+100k-Berry Levinson-2016
+90k-Maruthi-2014
+20k-S J Surya-2015
+50k-Jason Gordon-2013
+80k-Andrew Jay Cohen-2016
+70k-Teja-2014
+60k-Mite Michell-2015
+30k-Micheal McCuller-2013
+120k-Pete Docter-2016
+Actor
+Brad Pitt
+20k-Pete Docter-2014
+70k-Louis C.K-2015
+120k-Mite Michell-2013
+90k-Vikram K Kumar-2016
+80k-Andrew Jay Cohen-2014
+50k-Berry Levinson-2015
+110k-Matt Besser-2013
+40k-Micheal McCuller-2016
+30k-Jason Moore-2014
+60k-Jason Gordon-2015
+130k-Maruthi-2013
+100k-Sanjay Leela Bansali-2016
+Actor
+Pawan Kalyan
+110k-Sanjay Leela Bansali-2014
+130k-Jason Moore-2015
+60k-Pete Docter-2013
+100k-Louis C.K-2016
+20k-David Wain-2014
+40k-Trivikram-2015
+120k-Mite Michell-2013
+90k-Maruthi-2016
+70k-S S Rajamouli-2014
+80k-Teja-2015
+30k-S J Surya-2013
+50k-V V Vinayak-2016
+Actor
+Tom Cruise
+30k-Vikram K Kumar-2014
+90k-Mite Michell-2015
+70k-Teja-2013
+20k-Maruthi-2016
+50k-Micheal McCuller-2014
+80k-Matt Besser-2015
+60k-Jason Moore-2013
+40k-Andrew Jay Cohen-2016
+130k-S J Surya-2014
+110k-S S Rajamouli-2015
+100k-V V Vinayak-2013
+120k-David Wain-2016
+Actor
+Akshay Kumar
+120k-Teja-2014
+130k-Micheal McCuller-2015
+70k-Maruthi-2013
+100k-V V Vinayak-2016
+90k-Trivikram-2014
+80k-S S Rajamouli-2015
+20k-David Wain-2013
+50k-Mite Michell-2016
+60k-Andrew Jay Cohen-2014
+40k-Pete Docter-2015
+110k-Sanjay Leela Bansali-2013
+30k-S J Surya-2016
+Actor
+Mahesh Babu
+90k-Vikram K Kumar-2014
+100k-Trivikram-2015
+40k-Andrew Jay Cohen-2013
+120k-Berry Levinson-2016
+110k-David Wain-2014
+60k-Matt Besser-2015
+50k-Teja-2013
+70k-Louis C.K-2016
+30k-S S Rajamouli-2014
+80k-Micheal McCuller-2015
+130k-Sanjay Leela Bansali-2013
+20k-Mite Michell-2016
+Actor
+Ranbir Kapoor
+80k-S S Rajamouli-2014
+50k-V V Vinayak-2015
+120k-Pete Docter-2013
+60k-Matt Besser-2016
+40k-Mite Michell-2014
+70k-Andrew Jay Cohen-2015
+100k-Berry Levinson-2013
+110k-Maruthi-2016
+20k-Vikram K Kumar-2014
+30k-Jason Moore-2015
+130k-S J Surya-2013
+90k-Sanjay Leela Bansali-2016
+Actor
+Russel Crowe
+30k-Matt Besser-2014
+80k-Teja-2015
+110k-Berry Levinson-2013
+50k-Vikram K Kumar-2016
+100k-V V Vinayak-2014
+120k-Sanjay Leela Bansali-2015
+130k-Mite Michell-2013
+90k-Andrew Jay Cohen-2016
+40k-Trivikram-2014
+20k-Louis C.K-2015
+70k-S J Surya-2013
+60k-S S Rajamouli-2016
+Actor
+Jr NTR
+70k-Micheal McCuller-2014
+30k-Berry Levinson-2015
+110k-V V Vinayak-2013
+40k-Louis C.K-2016
+120k-Trivikram-2014
+50k-Teja-2015
+90k-Vikram K Kumar-2013
+80k-Jason Gordon-2016
+60k-Andrew Jay Cohen-2014
+20k-Sanjay Leela Bansali-2015
+100k-S S Rajamouli-2013
+130k-Jason Moore-2016
+Actor
+Kelvin Spacey
+70k-Teja-2014
+120k-S J Surya-2015
+110k-V V Vinayak-2013
+20k-Mite Michell-2016
+30k-Pete Docter-2014
+130k-Matt Besser-2015
+100k-Micheal McCuller-2013
+90k-Vikram K Kumar-2016
+60k-Jason Moore-2014
+50k-Louis C.K-2015
+80k-Sanjay Leela Bansali-2013
+40k-Jason Gordon-2016
+Actor
+Vijay
+50k-Berry Levinson-2014
+130k-Teja-2015
+70k-V V Vinayak-2013
+60k-Mite Michell-2016
+40k-Louis C.K-2014
+120k-Pete Docter-2015
+30k-Trivikram-2013
+20k-Matt Besser-2016
+100k-S S Rajamouli-2014
+80k-Maruthi-2015
+110k-Jason Gordon-2013
+90k-Micheal McCuller-2016
+Actor
+Christian Bale
+110k-Vikram K Kumar-2014
+90k-Louis C.K-2015
+80k-S J Surya-2013
+100k-Jason Moore-2016
+40k-Mite Michell-2014
+130k-Sanjay Leela Bansali-2015
+50k-Berry Levinson-2013
+30k-Maruthi-2016
+120k-Teja-2014
+70k-Jason Gordon-2015
+60k-Andrew Jay Cohen-2013
+20k-V V Vinayak-2016
+Actor
+Ram Charan
+130k-Maruthi-2014
+80k-V V Vinayak-2015
+30k-David Wain-2013
+20k-Jason Gordon-2016
+90k-Trivikram-2014
+120k-Micheal McCuller-2015
+100k-Sanjay Leela Bansali-2013
+110k-Pete Docter-2016
+70k-Andrew Jay Cohen-2014
+50k-S S Rajamouli-2015
+60k-Vikram K Kumar-2013
+40k-Mite Michell-2016
+Actor
+Nicholas Cage
+40k-Sanjay Leela Bansali-2014
+30k-Jason Gordon-2015
+120k-Berry Levinson-2013
+100k-Micheal McCuller-2016
+80k-Andrew Jay Cohen-2014
+50k-S S Rajamouli-2015
+110k-S J Surya-2013
+60k-Mite Michell-2016
+90k-Louis C.K-2014
+70k-Maruthi-2015
+20k-Trivikram-2013
+130k-Teja-2016

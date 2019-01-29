@@ -1,0 +1,21 @@
+Array Data:
+Hearts Array:[ 1  5  3  11  13 ]
+Diamonds Array:[ 6  12  10  13 ]
+Spades Array:[ 13  10  4  5  13 ]
+Clubs Array:[ 2  5  12  11  6 ]
+******************************
+ArrayList Data:
+Hearts ArrayList:[ 3  1  5  11  13 ]
+Diamonds ArrayList:[ 6  12  10  13 ]
+Spades ArrayList:[ 2  13  4  5  13 ]
+Clubs ArrayList:[ 9  2  5  12  11  6 ]
+******************************
+Remove at position 3 from hearts arraylist
+Remove at position 2 from spades arraylist
+Remove at position 1 from clubs arraylist
+******************************
+ArrayList Data after removing element:
+Hearts ArrayList:[ 3  1  5  13 ]
+Diamonds ArrayList:[ 6  12  10  13 ]
+Spades ArrayList:[ 2  13  5  13 ]
+Clubs ArrayList:[ 9  5  12  11  6 ]

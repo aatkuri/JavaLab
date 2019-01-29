@@ -1,0 +1,8 @@
+{
+    "name": "Jasmine_Test",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "S530458",
+    "contributors": [],
+    "dependencies": {}
+}

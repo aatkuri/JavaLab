@@ -1,0 +1,294 @@
+Student
+Jayden Smith
+44542-Ajay Bandi-Fall 2016
+44563-Denise Case-Fall 2016
+44460-Charles Badami-Fall 2016
+44555-Scott Bell-Spring 2017
+44560-Tianyang Wang-Spring 2017
+44643-Charles Hoot-Spring 2017
+44618-Aziz Fellah-Summer 2017
+44623-Nancy Zeliff-Summer 2017
+44691-Michael Oudshoorn-Summer 2017
+44664-Charitha Sasika Hettiarachchi-Fall 2017
+44663-Denise Case-Fall 2017
+44692-Ankit Chaudhary-Fall 2017
+Student
+Charlie Goodchap
+44460-Charles Badami-Fall 2016
+44618-Aziz Fellah-Spring 2017
+44692-Cari Cline-Summer 2017
+44644-Nancy Zeliff-Fall 2017
+44664-Tianyang Wang-Fall 2016
+44555-Ajay Bandi-Spring 2017
+44542-Charitha Sasika Hettiarachchi-Summer 2017
+44623-Michael Rogers-Fall 2017
+44563-Diana Linville-Fall 2016
+44560-Ankit Chaudhary-Spring 2017
+44356-Charles Hoot-Summer 2017
+44691-Zhengrui Qin-Fall 2017
+Student
+Carmen Carson
+44618-Scott Bell-Fall 2016
+44664-Denise Case-Spring 2017
+44692-Michael Rogers-Summer 2017
+44691-Diana Linville-Fall 2017
+44356-Joni Adkins-Fall 2016
+44623-Charitha Sasika Hettiarachchi-Spring 2017
+44644-Charles Badami-Summer 2017
+44563-Cari Cline-Fall 2017
+44460-Zhengrui Qin-Fall 2016
+44555-Tianyang Wang-Spring 2017
+44560-Charles Hoot-Summer 2017
+44542-Nathan Eloe-Fall 2017
+Student
+Patch Shakespaw
+44356-Denise Case-Fall 2016
+44555-Michael Oudshoorn-Spring 2017
+44691-Charitha Sasika Hettiarachchi-Summer 2017
+44618-Charles Badami-Fall 2017
+44664-Joni Adkins-Fall 2016
+44542-Cari Cline-Spring 2017
+44560-Nathan Eloe-Summer 2017
+44692-Michael Rogers-Fall 2017
+44460-Aziz Fellah-Fall 2016
+44623-Diana Linville-Spring 2017
+44644-Ankit Chaudhary-Summer 2017
+44563-Douglas Hawley-Fall 2017
+Student
+Buddy Coolj
+44356-Scott Bell-Fall 2016
+44555-Zhengrui Qin-Spring 2017
+44623-Michael Oudshoorn-Summer 2017
+44542-Tianyang Wang-Fall 2017
+44618-Nathan Eloe-Fall 2016
+44563-Diana Linville-Spring 2017
+44692-Charles Badami-Summer 2017
+44460-Aziz Fellah-Fall 2017
+44560-Ankit Chaudhary-Fall 2016
+44644-Douglas Hawley-Spring 2017
+44691-Michael Rogers-Summer 2017
+44664-Cari Cline-Fall 2017
+Student
+Abbie Fangle
+44460-Diana Linville-Fall 2016
+44692-Aziz Fellah-Spring 2017
+44563-Charles Badami-Summer 2017
+44644-Zhengrui Qin-Fall 2017
+44560-Cari Cline-Fall 2016
+44542-Tianyang Wang-Spring 2017
+44356-Ajay Bandi-Summer 2017
+44618-Ankit Chaudhary-Fall 2017
+44664-Denise Case-Fall 2016
+44691-Scott Bell-Spring 2017
+44623-Douglas Hawley-Summer 2017
+44555-Michael Rogers-Fall 2017
+Student
+Amy Smith
+44555-Douglas Hawley-Fall 2016
+44644-Michael Oudshoorn-Spring 2017
+44692-Nancy Zeliff-Summer 2017
+44563-Aziz Fellah-Fall 2017
+44542-Denise Case-Fall 2016
+44691-Scott Bell-Spring 2017
+44356-Charitha Sasika Hettiarachchi-Summer 2017
+44460-Joni Adkins-Fall 2017
+44623-Tianyang Wang-Fall 2016
+44664-Charles Hoot-Spring 2017
+44618-Zhengrui Qin-Summer 2017
+44560-Ajay Bandi-Fall 2017
+Student
+Peanut McNubbin
+44542-Charles Badami-Fall 2016
+44664-Charles Hoot-Spring 2017
+44560-Ajay Bandi-Summer 2017
+44644-Cari Cline-Fall 2017
+44623-Denise Case-Fall 2016
+44618-Aziz Fellah-Spring 2017
+44356-Charitha Sasika Hettiarachchi-Summer 2017
+44460-Diana Linville-Fall 2017
+44563-Michael Oudshoorn-Fall 2016
+44555-Tianyang Wang-Spring 2017
+44691-Joni Adkins-Summer 2017
+44692-Nancy Zeliff-Fall 2017
+Student
+Betty Butler
+44356-Denise Case-Fall 2016
+44644-Charles Badami-Spring 2017
+44623-Aziz Fellah-Summer 2017
+44555-Nathan Eloe-Fall 2017
+44542-Michael Rogers-Fall 2016
+44563-Michael Oudshoorn-Spring 2017
+44618-Ajay Bandi-Summer 2017
+44691-Cari Cline-Fall 2017
+44460-Diana Linville-Fall 2016
+44692-Tianyang Wang-Spring 2017
+44664-Nancy Zeliff-Summer 2017
+44560-Joni Adkins-Fall 2017
+Student
+Tess Ruff
+44664-Diana Linville-Fall 2016
+44618-Joni Adkins-Spring 2017
+44563-Michael Oudshoorn-Summer 2017
+44460-Douglas Hawley-Fall 2017
+44555-Nathan Eloe-Fall 2016
+44623-Michael Rogers-Spring 2017
+44692-Ajay Bandi-Summer 2017
+44560-Charles Hoot-Fall 2017
+44691-Aziz Fellah-Fall 2016
+44542-Scott Bell-Spring 2017
+44644-Nancy Zeliff-Summer 2017
+44356-Charitha Sasika Hettiarachchi-Fall 2017
+Student
+Bella Barkley
+44356-Charles Badami-Fall 2016
+44555-Denise Case-Spring 2017
+44563-Ajay Bandi-Summer 2017
+44623-Douglas Hawley-Fall 2017
+44644-Ankit Chaudhary-Fall 2016
+44460-Charitha Sasika Hettiarachchi-Spring 2017
+44692-Michael Rogers-Summer 2017
+44664-Nathan Eloe-Fall 2017
+44691-Scott Bell-Fall 2016
+44542-Nancy Zeliff-Spring 2017
+44618-Charles Hoot-Summer 2017
+44560-Joni Adkins-Fall 2017
+Student
+Bruce Brown
+44664-Denise Case-Fall 2016
+44692-Aziz Fellah-Spring 2017
+44560-Charitha Sasika Hettiarachchi-Summer 2017
+44691-Nathan Eloe-Fall 2017
+44623-Tianyang Wang-Fall 2016
+44644-Michael Oudshoorn-Spring 2017
+44563-Ankit Chaudhary-Summer 2017
+44460-Michael Rogers-Fall 2017
+44555-Zhengrui Qin-Fall 2016
+44542-Nancy Zeliff-Spring 2017
+44618-Joni Adkins-Summer 2017
+44356-Cari Cline-Fall 2017
+Student
+Pickles Pooch
+44618-Zhengrui Qin-Fall 2016
+44542-Tianyang Wang-Spring 2017
+44664-Ajay Bandi-Summer 2017
+44560-Nathan Eloe-Fall 2017
+44356-Aziz Fellah-Fall 2016
+44563-Denise Case-Spring 2017
+44460-Nancy Zeliff-Summer 2017
+44692-Michael Oudshoorn-Fall 2017
+44691-Cari Cline-Fall 2016
+44644-Charles Hoot-Spring 2017
+44623-Diana Linville-Summer 2017
+44555-Joni Adkins-Fall 2017
+Student
+David Danson
+44644-Zhengrui Qin-Fall 2016
+44664-Denise Case-Spring 2017
+44542-Cari Cline-Summer 2017
+44623-Michael Oudshoorn-Fall 2017
+44691-Ajay Bandi-Fall 2016
+44692-Nancy Zeliff-Spring 2017
+44356-Charles Badami-Summer 2017
+44460-Charles Hoot-Fall 2017
+44618-Douglas Hawley-Fall 2016
+44563-Aziz Fellah-Spring 2017
+44555-Joni Adkins-Summer 2017
+44560-Diana Linville-Fall 2017
+Student
+Honey Dawg
+44563-Ajay Bandi-Fall 2016
+44664-Scott Bell-Spring 2017
+44618-Ankit Chaudhary-Summer 2017
+44560-Douglas Hawley-Fall 2017
+44460-Joni Adkins-Fall 2016
+44623-Denise Case-Spring 2017
+44644-Michael Rogers-Summer 2017
+44356-Charles Hoot-Fall 2017
+44542-Nancy Zeliff-Fall 2016
+44555-Zhengrui Qin-Spring 2017
+44691-Cari Cline-Summer 2017
+44692-Nathan Eloe-Fall 2017
+Student
+Butters Bunnybill
+44560-Aziz Fellah-Fall 2016
+44623-Michael Oudshoorn-Spring 2017
+44356-Scott Bell-Summer 2017
+44644-Joni Adkins-Fall 2017
+44664-Nathan Eloe-Fall 2016
+44618-Douglas Hawley-Spring 2017
+44542-Charles Badami-Summer 2017
+44691-Nancy Zeliff-Fall 2017
+44460-Zhengrui Qin-Fall 2016
+44563-Cari Cline-Spring 2017
+44692-Michael Rogers-Summer 2017
+44555-Charitha Sasika Hettiarachchi-Fall 2017
+Student
+Ellie Ellison
+44623-Tianyang Wang-Fall 2016
+44560-Ankit Chaudhary-Spring 2017
+44664-Charles Badami-Summer 2017
+44563-Charles Hoot-Fall 2017
+44692-Aziz Fellah-Fall 2016
+44618-Denise Case-Spring 2017
+44691-Nancy Zeliff-Summer 2017
+44555-Zhengrui Qin-Fall 2017
+44356-Douglas Hawley-Fall 2016
+44542-Michael Oudshoorn-Spring 2017
+44644-Charitha Sasika Hettiarachchi-Summer 2017
+44460-Scott Bell-Fall 2017
+Student
+Max Headroom
+44618-Douglas Hawley-Fall 2016
+44560-Charles Hoot-Spring 2017
+44691-Scott Bell-Summer 2017
+44664-Joni Adkins-Fall 2017
+44692-Cari Cline-Fall 2016
+44623-Nancy Zeliff-Spring 2017
+44555-Ajay Bandi-Summer 2017
+44563-Aziz Fellah-Fall 2017
+44644-Charles Badami-Fall 2016
+44542-Zhengrui Qin-Spring 2017
+44356-Denise Case-Summer 2017
+44460-Diana Linville-Fall 2017
+Student
+Waffles Frapenstein
+44644-Michael Oudshoorn-Fall 2016
+44691-Nancy Zeliff-Spring 2017
+44560-Diana Linville-Summer 2017
+44618-Scott Bell-Fall 2017
+44356-Ajay Bandi-Fall 2016
+44542-Charles Badami-Spring 2017
+44623-Zhengrui Qin-Summer 2017
+44563-Cari Cline-Fall 2017
+44664-Ankit Chaudhary-Fall 2016
+44692-Nathan Eloe-Spring 2017
+44555-Charitha Sasika Hettiarachchi-Summer 2017
+44460-Charles Hoot-Fall 2017
+Student
+Robb Stark
+44692-Cari Cline-Fall 2016
+44664-Ankit Chaudhary-Spring 2017
+44618-Michael Rogers-Summer 2017
+44555-Charles Badami-Fall 2017
+44563-Tianyang Wang-Fall 2016
+44560-Ajay Bandi-Spring 2017
+44644-Scott Bell-Summer 2017
+44542-Michael Oudshoorn-Fall 2017
+44691-Charles Hoot-Fall 2016
+44460-Zhengrui Qin-Spring 2017
+44623-Aziz Fellah-Summer 2017
+44356-Diana Linville-Fall 2017
+Student
+David Pizarro
+44356-Ajay Bandi-Fall 2016
+44555-Aziz Fellah-Spring 2017
+44644-Tianyang Wang-Summer 2017
+44618-Nancy Zeliff-Fall 2017
+44664-Douglas Hawley-Fall 2016
+44692-Charles Badami-Spring 2017
+44560-Joni Adkins-Summer 2017
+44623-Charitha Sasika Hettiarachchi-Fall 2017
+44460-Ankit Chaudhary-Fall 2016
+44563-Michael Rogers-Spring 2017
+44542-Michael Oudshoorn-Summer 2017
+44691-Diana Linville-Fall 2017

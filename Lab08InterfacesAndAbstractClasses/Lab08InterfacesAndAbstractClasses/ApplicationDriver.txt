@@ -1,0 +1,45 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package jobapplication;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+/**
+ * Driver class named ApplicationDriver
+ *
+ * @author Instructor
+ */
+public class ApplicationDriver {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+
+        1. Create an arraylist of Application and name it as applicationsList to store the list of applications
+        2. Create a scanner object and name it as sc to read the input from keyboard
+        3. Print the statement "Welcome to the Career Builder System"
+        while (iterate) {
+              4. Print the statement "Fill your details to know the jobs that suits your profile"
+              5. Create an object for Application class using no-argument constructor and name it as application
+              6. Invoke the fillApplication() method on application object
+              7. Invoke the haveAGoodBackGround() method on application and check the whether it returns true or not. 
+                 If it return true go to next steps or else print a statement like "You shouldn't have any criminal or illicit background" 
+                 and exit from the main method
+              8. If it returns true then invoke the checkQualification() method on application 
+                 and check the condition if the condition is true go to next step 
+                 otherwise print a staement like "You need a higher need to apply the job posistions we have currently" and exit from the main method
+              9. If it returns true then invoke checkAge() on application and if the condition is true 
+                 then invoke produceTheJobDetailsForApplicant() on applicantion and go to next step
+              10.Invoke the checkAvailabilityOfJob() method on application 
+              11.Prompt the user "Would you like to apply for this job", if the answer is "yes/YES" then add the application to the arraylist applicationsList
+              12.Prompt the user "Would you like to apply for another applicant" if the answer is "no/NO" exit from the loop otherwise repeat the same process
+              13.Print the arraylist applicationsList
+                       }
+                   }
+             }
+     

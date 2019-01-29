@@ -1,0 +1,75 @@
+//Method to organize seats.
+    public ArrayList<ArrayList<Student>> organizeSeats(ArrayList<Student> studentList) {
+        String[] names = new String[studentList.size()];
+        for (int i = 0; i < studentList.size(); i++) {
+            names[i] = studentList.get(i).getFname();
+        }
+
+        ArrayList<ArrayList<Student>> organised = new ArrayList<>();
+
+        for (ArrayList<String> l1 : uniqueCombinations(names)) {
+            ArrayList<Student> sl = new ArrayList<Student>();
+            for (String l2 : l1) {
+                sl.add(new Student(l2));
+
+            }
+            organised.add(sl);
+        }
+        return organised;
+    }
+
+    public ArrayList<ArrayList<Student>> organizeSeatsWithRestriction(ArrayList<Student> sl, Student rs1, Student rs2) {
+
+        int irs1, irs2;
+        ArrayList<ArrayList<Student>> res = organizeSeats(sl);
+        for (int i = res.size() - 1; i >= 0; i--) {
+            System.out.println();
+            irs1 = res.get(i).indexOf(rs1);
+            irs2 = res.get(i).indexOf(rs2);
+            System.out.println("irs1:" + irs1 + " irs2:" + irs2);
+            if (irs2 - irs1 == 1 || irs2 - irs1 == -1) {
+                res.remove(i);
+            }
+        }
+        return res;
+    }
+
+    private ArrayList<ArrayList<String>> uniqueCombinations(String[] list) {
+        ArrayList<ArrayList<String>> result = new ArrayList<ArrayList<String>>();
+        uniqueCombination(list, 0, result);
+        return result;
+    }
+
+    private void uniqueCombination(String[] list, int start, ArrayList<ArrayList<String>> result) {
+
+        if (start >= list.length) {
+            ArrayList<String> item = new ArrayList<String>();
+            for (String h : list) {
+                item.add(h);
+            }
+            result.add(item);
+        }
+
+        for (int j = start; j <= list.length - 1; j++) {
+            if (hasDuplicates(list, start, j)) {
+                swap(list, start, j);
+                uniqueCombination(list, start + 1, result);
+                swap(list, start, j);
+            }
+        }
+    }
+
+    private boolean hasDuplicates(String[] arr, int start, int end) {
+        for (int i = start; i <= end - 1; i++) {
+            if (arr[i] == arr[end]) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    private void swap(String[] a, int i, int j) {
+        String temp = a[i];
+        a[i] = a[j];
+        a[j] = temp;
+    }
